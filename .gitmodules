@@ -1,3 +1,6 @@
 [submodule "Counterfactuals"]
 	path = Counterfactuals
 	url = https://github.com/iamseungyun/Counterfactuals.git
+[submodule "counterfactuals"]
+	path = counterfactuals
+	url = https://github.com/iamseungyun/Counterfactuals.git
